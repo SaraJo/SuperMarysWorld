@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #5C94FC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    text-align: center;
+    width: 90vw;
+    max-width: 1200px;
+}
+
+#gameCanvas {
+    border: 2px solid #000;
+    background-color: #5C94FC;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+}
+
+.game-info {
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+    text-shadow: 2px 2px 0 #000;
+}
+
+.game-info span {
+    margin: 0 20px;
+}
+
+.score, .lives, .timer {
+    font-weight: bold;
+}
