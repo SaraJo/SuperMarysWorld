@@ -2,11 +2,9 @@
 
 A Mario Brothers Level 1 clone with a New York City twist! Help Mary catch the 7 train to Queens while collecting subway tokens and avoiding pigeons.
 
-![Game Screenshot](screenshot.png)
-
 ## 🎮 Play the Game
 
-Play it directly in your browser: [https://[your-username].github.io/game](https://[your-username].github.io/game)
+Play it directly in your browser: [https://sarajo.github.io/SuperMarysWorld](https://sarajo.github.io/SuperMarysWorld)
 
 ## 🎯 About the Game
 
@@ -43,8 +41,8 @@ Mary's NYC Adventure is a side-scrolling platformer that reimagines the classic 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/game.git
-cd game
+git clone https://github.com/SaraJo/SuperMarysWorld.git
+cd SuperMarysWorld
 ```
 
 ### Run Locally
@@ -95,7 +93,7 @@ game/
 ```bash
 git add .
 git commit -m "Initial commit of Mary's NYC Adventure game"
-git remote add origin https://github.com/[your-username]/game.git
+git remote add origin https://github.com/SaraJo/SuperMarysWorld.git
 git push -u origin main
 ```
 
@@ -106,7 +104,7 @@ git push -u origin main
    - Select "main" branch and "/ (root)" folder
    - Click Save
 
-3. Your game will be available at: `https://[your-username].github.io/game`
+3. Your game will be available at: `https://sarajo.github.io/SuperMarysWorld`
 
 ## 🤝 Contributing
 
@@ -125,7 +123,7 @@ This project is open source and available under the MIT License.
 
 - Inspired by Super Mario Bros. by Nintendo
 - Created with vanilla JavaScript and HTML5 Canvas
-- NYC theme and character by [Your Name]
+- NYC theme and character by Sara Jo
 
 ---
 
